@@ -690,11 +690,11 @@
 		</groups>
 	</test>
 	<test>
-		<testCaseName>jck-runtime-api-javax_accessibility</testCaseName>
+		<testCaseName>jck-runtime-api-javax_`ibility</testCaseName>
 		<variations>
 			<variation>NoOptions</variation>
 		</variations>
-		<command>$(JCK_CMD_TEMPLATE) tests=api/javax_accessibility testsuite=RUNTIME DISPLAY=jstv068.hursley.ibm.com:3; \
+		<command>$(JCK_CMD_TEMPLATE) tests=api/javax_accessibility testsuite=RUNTIME DISPLAY= lives1.fyre.ibm.com:2; \
 	$(TEST_STATUS)</command>
 		<levels>
 			<level>extended</level>
