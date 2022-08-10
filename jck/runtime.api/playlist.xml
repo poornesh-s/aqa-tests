@@ -690,7 +690,7 @@
 		</groups>
 	</test>
 	<test>
-		<testCaseName>jck-runtime-api-javax_`ibility</testCaseName>
+		<testCaseName>jck-runtime-api-javax_accessibility</testCaseName>
 		<variations>
 			<variation>NoOptions</variation>
 		</variations>
